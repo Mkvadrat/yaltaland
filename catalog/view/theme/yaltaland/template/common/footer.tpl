@@ -6,7 +6,7 @@
                     <div class="col-md-12">
                         <ul>
                             <li>Полная проверка юридической чистоты объекта</li>
-                            <li>Полное юридическое сопровождение</li>
+                            <li>Юридическое сопровождение</li>
                             <li>Отсутствие скрытых комиссий</li>
                             <li>Оплата после проведения сделки</li>
                         </ul>
@@ -126,7 +126,7 @@ function SendForm(){
         loop:true,
         margin:10,
         nav:true,
-        autoplay:true,
+        autoplay:false,
         smartSpeed:2000,
         autoplayTimeout:5000,
         dots:false,
@@ -155,9 +155,13 @@ function SendForm(){
 
 <script type="text/javascript">
 $(document).ready(function() {
-    $("a.gallery").fancybox();
+    //$("a.gallery").fancybox();
+$('[data-fancybox]').fancybox({
+	protect: true
+});
 });
 </script>
+
 
 <script type="text/javascript">
     $(document).ready(function() {

@@ -1135,3 +1135,34 @@
 2017-06-08 6:31:33 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
 2017-06-08 6:33:28 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
 2017-06-09 8:44:05 - PHP Warning:  unlink(/var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/system/storage/cache/cache.country.1496934887): No such file or directory in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/system/library/cache/file.php on line 17
+2017-07-03 16:41:24 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-03 16:41:44 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-03 17:44:19 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-03 18:08:01 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-03 18:14:07 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-03 18:38:18 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-03 19:01:36 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-03 19:06:54 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-03 19:20:01 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-03 19:25:27 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-03 19:27:57 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-04 8:14:43 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-04 8:17:18 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-04 8:18:23 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-04 8:19:10 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-04 8:48:25 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-04 8:51:32 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-04 8:54:14 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-04 8:55:24 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-04 8:59:53 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-04 9:01:40 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-04 9:07:16 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-04 9:08:24 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-04 9:09:47 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-04 9:53:49 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-04 10:12:31 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-04 10:14:30 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-04 13:42:23 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-04 13:45:19 - PHP Notice:  Undefined index: tax_class_id in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/admin/model/catalog/product.php on line 56
+2017-07-04 13:45:49 - PHP Notice:  Undefined variable: slider in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/catalog/view/theme/yaltaland/template/product/product.tpl on line 34
+2017-07-07 1:07:36 - PHP Warning:  unlink(/var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/system/storage/cache/cache.currency.1499375246): No such file or directory in /var/www/vhosts/3331141.xeovo.ml/public_html/yalta-land/system/library/cache/file.php on line 17

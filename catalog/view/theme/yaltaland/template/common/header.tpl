@@ -48,14 +48,16 @@
 <link rel="stylesheet" href="catalog/view/theme/yaltaland/css/owl.theme.default.css">
 
 <!-- FANCYBOX -->
-<link rel="stylesheet" href="catalog/view/theme/yaltaland/js/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+<!--<link rel="stylesheet" href="catalog/view/theme/yaltaland/js/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
 <script type="text/javascript" src="catalog/view/theme/yaltaland/js/source/jquery.fancybox.pack.js?v=2.1.5"></script>
 <script src="catalog/view/theme/yaltaland/js/jquery.mousewheel-3.0.6.pack.js"></script>
 <link rel="stylesheet" href="catalog/view/theme/yaltaland/js/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
 <script type="text/javascript" src="catalog/view/theme/yaltaland/js/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
 <script type="text/javascript" src="catalog/view/theme/yaltaland/js/source/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
 <link rel="stylesheet" href="catalog/view/theme/yaltaland/js/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7" type="text/css" media="screen" />
-<script type="text/javascript" src="catalog/view/theme/yaltaland/js/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
+<script type="text/javascript" src="catalog/view/theme/yaltaland/js/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>-->
+<link rel="stylesheet" href="catalog/view/theme/yaltaland/js/dist/jquery.fancybox.min.css">
+<script src="catalog/view/theme/yaltaland/js/dist/jquery.fancybox.js"></script>
 
 <!-- SWEETALERT -->
 <script src="catalog/view/theme/yaltaland/js/sweetalert.min.js"></script>
