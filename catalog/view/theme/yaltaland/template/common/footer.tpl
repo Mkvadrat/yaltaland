@@ -48,11 +48,11 @@
                         <div class="make-in">
                             <a href="http://mkvadrat.com/">сайт разработан в <img src="catalog/view/theme/yaltaland/images/m2-logo.jpg" alt=""></a>
                         </div>
-                        <div class="too-top">
+                        <!-- <div class="too-top">
                             <a class="top ancLinks" href="#top"></a>
-                        </div>
+                        </div> -->
                         <p class="rights-block">&copy; Все права защищены 2017</p>
-                        <p class="logo"><a href="<?php echo $home; ?>"><img src="<?php echo $logo; ?>" title="<?php echo $name; ?>" alt="<?php echo $name; ?>" /> <span>yalta-partner.ru</span></a></p>
+                        <p class="logo"><a href="http://ялтапартнер.рф"><img src="<?php echo $logo; ?>" title="<?php echo $name; ?>" alt="<?php echo $name; ?>" /> <span>ялтапартнер.рф</span></a></p>
                     </div>
                 </div>
             </div>

@@ -57,6 +57,10 @@ header {
 	background-image: -webkit-linear-gradient(bottom, #264f8e 0%, #0b2f68 100%);
 	background-image: -o-linear-gradient(bottom, #264f8e 0%, #0b2f68 100%);
 	background-image: linear-gradient(to top, #264f8e 0%, #0b2f68 100%);
+	background-image: url(../images/bg-head.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
 }
 
 header .header-title {
@@ -498,7 +502,7 @@ header .header-tel a {
 	color: white;
 	font-size: 14px;
 	font-weight: 400;
-	padding: 30px 0 0px 35px;
+	padding: 30px 0 0px 0px;
 }
 
 .bottom-line-footer .too-top {
